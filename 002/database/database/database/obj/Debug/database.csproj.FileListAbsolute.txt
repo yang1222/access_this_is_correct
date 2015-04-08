@@ -1,0 +1,9 @@
+C:\Users\陳冠宇\Desktop\database\database\bin\Debug\database.exe.config
+C:\Users\陳冠宇\Desktop\database\database\bin\Debug\database.exe
+C:\Users\陳冠宇\Desktop\database\database\bin\Debug\database.pdb
+C:\Users\陳冠宇\Desktop\database\database\obj\Debug\database.csprojResolveAssemblyReference.cache
+C:\Users\陳冠宇\Desktop\database\database\obj\Debug\database.Form1.resources
+C:\Users\陳冠宇\Desktop\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\陳冠宇\Desktop\database\database\obj\Debug\database.csproj.GenerateResource.Cache
+C:\Users\陳冠宇\Desktop\database\database\obj\Debug\database.exe
+C:\Users\陳冠宇\Desktop\database\database\obj\Debug\database.pdb
